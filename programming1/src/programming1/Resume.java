@@ -19,8 +19,7 @@ public class Resume {
 		printExperience();
 		printLanguage();
 		printSkills();
-		
-		
+
 	}
   
 	public static void printName(){
