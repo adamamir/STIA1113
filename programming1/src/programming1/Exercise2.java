@@ -7,15 +7,15 @@ public class Exercise2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		//printQuestion1();
-		//printQuestion2();
-		//printQuestion3();
-		//printQuestion4();
-		//printQuestion5();
-		//printQuestion6();
-		//printQuestion7();
-		//printQuestion8();
-		//printQuestion9();
+		printQuestion1();
+		printQuestion2();
+		printQuestion3();
+		printQuestion4();
+		printQuestion5();
+		printQuestion6();
+		printQuestion7();
+		printQuestion8();
+		printQuestion9();
 		printQuestion10();
 		
 		sc.close();
